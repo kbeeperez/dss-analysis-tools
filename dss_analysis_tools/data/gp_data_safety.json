@@ -1,0 +1,961 @@
+{
+    "Snapchat": {
+        "No data shared with third parties": {},
+        "Data collected": {
+            "Contacts": "Contacts",
+            "Messages": "Other in-app messages",
+            "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+            "Financial info": "User payment info and Purchase history",
+            "Personal info": "Name, Email address, User IDs, Address, Phone number, and Other info",
+            "Audio": "Music files and Other audio files",
+            "Device or other IDs": "Device or other IDs",
+            "Web browsing": "Web browsing history",
+            "App activity": "App interactions, In-app search history, Installed apps, Other user-generated content, and Other actions",
+            "Location": "Approximate location and Precise location",
+            "Photos and videos": "Photos and Videos"
+        },
+        "Security practices": {
+            "Data is encrypted in transit": "Your data is transferred over a secure connection",
+            "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+        }
+    },
+    "Instagram": {
+        "Data shared": {
+            "Personal info": "Name, Email address, User IDs, and Phone number",
+            "Device or other IDs": "Device or other IDs"
+        },
+        "Data collected": {
+            "Health and fitness": "Health info and Fitness info",
+            "Files and docs": "Files and docs",
+            "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+            "App activity": "App interactions, In-app search history, Installed apps, Other user-generated content, and Other actions",
+            "Audio": "Voice or sound recordings, Music files, and Other audio files",
+            "Photos and videos": "Photos and Videos",
+            "Web browsing": "Web browsing history",
+            "Messages": "Emails, SMS or MMS, and Other in-app messages",
+            "Personal info": "Name, Email address, User IDs, Address, Phone number, Political or religious beliefs, Sexual orientation, and Other info",
+            "Device or other IDs": "Device or other IDs",
+            "Location": "Approximate location and Precise location",
+            "Contacts": "Contacts",
+            "Financial info": "User payment info, Purchase history, Credit score, and Other financial info",
+            "Calendar": "Calendar events"
+        },
+        "Security practices": {
+            "Data is encrypted in transit": "Your data is transferred over a secure connection",
+            "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+        }
+    },
+    "X": {
+        "No data shared with third parties": {},
+        "Data collected": {
+            "Messages": "Other in-app messages",
+            "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+            "Location": "Approximate location and Precise location",
+            "Device or other IDs": "Device or other IDs",
+            "App activity": "App interactions, In-app search history, Installed apps, Other user-generated content, and Other actions",
+            "Contacts": "Contacts",
+            "Photos and videos": "Photos and Videos",
+            "Financial info": "Purchase history",
+            "Web browsing": "Web browsing history",
+            "Audio": "Voice or sound recordings",
+            "Personal info": "Name, Email address, User IDs, Address, Phone number, and Other info"
+        },
+        "Security practices": {
+            "Data is encrypted in transit": "Your data is transferred over a secure connection",
+            "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+        }
+    },
+    "Facebook": {
+        "Data shared": {
+            "Personal info": "Name, Email address, User IDs, and Phone number",
+            "Device or other IDs": "Device or other IDs"
+        },
+        "Data collected": {
+            "Web browsing": "Web browsing history",
+            "Financial info": "User payment info, Purchase history, Credit score, and Other financial info",
+            "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+            "Calendar": "Calendar events",
+            "Personal info": "Name, Email address, User IDs, Address, Phone number, Political or religious beliefs, Sexual orientation, and Other info",
+            "Audio": "Voice or sound recordings, Music files, and Other audio files",
+            "Photos and videos": "Photos and Videos",
+            "Messages": "Emails, SMS or MMS, and Other in-app messages",
+            "Contacts": "Contacts",
+            "Files and docs": "Files and docs",
+            "App activity": "App interactions, In-app search history, Installed apps, Other user-generated content, and Other actions",
+            "Health and fitness": "Health info and Fitness info",
+            "Location": "Approximate location and Precise location",
+            "Device or other IDs": "Device or other IDs"
+        },
+        "Security practices": {
+            "Data is encrypted in transit": "Your data is transferred over a secure connection",
+            "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+        }
+    },
+    "Discord - Talk, Play, Hang Out": {
+        "Data shared": {
+            "Device or other IDs": "Device or other IDs"
+        },
+        "Data collected": {
+            "Messages": "Other in-app messages",
+            "Contacts": "Contacts",
+            "Files and docs": "Files and docs",
+            "Audio": "Voice or sound recordings and Music files",
+            "Financial info": "User payment info and Purchase history",
+            "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+            "Device or other IDs": "Device or other IDs",
+            "App activity": "App interactions, In-app search history, Other user-generated content, and Other actions",
+            "Photos and videos": "Photos and Videos",
+            "Personal info": "Name, Email address, User IDs, Phone number, and Other info",
+            "Location": "Approximate location"
+        },
+        "Security practices": {
+            "Data is encrypted in transit": "Your data is transferred over a secure connection",
+            "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+        }
+    },
+    "Reddit": {
+        "Data shared": {
+            "Messages": "Other in-app messages",
+            "App info and performance": "Crash logs and Diagnostics",
+            "Files and docs": "Files and docs",
+            "Personal info": "User IDs",
+            "Photos and videos": "Photos and Videos",
+            "App activity": "App interactions, In-app search history, Other user-generated content, and Other actions",
+            "Audio": "Voice or sound recordings and Music files"
+        },
+        "Data collected": {
+            "Messages": "Other in-app messages",
+            "App info and performance": "Crash logs and Diagnostics",
+            "Device or other IDs": "Device or other IDs",
+            "Files and docs": "Files and docs",
+            "Personal info": "Email address, User IDs, and Phone number",
+            "Photos and videos": "Photos and Videos",
+            "App activity": "App interactions, In-app search history, Other user-generated content, and Other actions",
+            "Web browsing": "Web browsing history",
+            "Audio": "Music files",
+            "Location": "Approximate location"
+        },
+        "Security practices": {
+            "Data isn\u2019t encrypted": "Your data isn\u2019t transferred over a secure connection",
+            "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+        }
+    },
+    "TikTok": {
+        "Data shared": {
+            "Audio": "Voice or sound recordings",
+            "App activity": "Other user-generated content",
+            "Personal info": "Name and User IDs",
+            "Photos and videos": "Photos and Videos"
+        },
+        "Data collected": {
+            "Financial info": "User payment info, Purchase history, and Other financial info",
+            "Messages": "Other in-app messages",
+            "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+            "Web browsing": "Web browsing history",
+            "Audio": "Voice or sound recordings",
+            "Device or other IDs": "Device or other IDs",
+            "App activity": "App interactions, In-app search history, Other user-generated content, and Other actions",
+            "Contacts": "Contacts",
+            "Personal info": "Name, Email address, User IDs, Address, Phone number, and Other info",
+            "Location": "Approximate location",
+            "Photos and videos": "Photos and Videos"
+        },
+        "Security practices": {
+            "Data is encrypted in transit": "Your data is transferred over a secure connection",
+            "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+        }
+    },
+    "Truth Social": {
+        "No data shared with third parties": {},
+        "Data collected": {
+            "Photos and videos": "Photos and Videos",
+            "Contacts": "Contacts",
+            "Personal info": "Email address, User IDs, Phone number, and Other info",
+            "App activity": "App interactions, In-app search history, Other user-generated content, and Other actions",
+            "Messages": "Other in-app messages",
+            "App info and performance": "Crash logs and Diagnostics",
+            "Device or other IDs": "Device or other IDs"
+        },
+        "Security practices": {
+            "Data is encrypted in transit": "Your data is transferred over a secure connection",
+            "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+        }
+    },
+    "Pinterest": {
+        "Data shared": {
+            "Web browsing": "Web browsing history",
+            "App activity": "App interactions, In-app search history, Installed apps, Other user-generated content, and Other actions",
+            "Device or other IDs": "Device or other IDs",
+            "Location": "Approximate location",
+            "Financial info": "Purchase history",
+            "Personal info": "Name, Email address, User IDs, Address, and Other info"
+        },
+        "Data collected": {
+            "Audio": "Voice or sound recordings, Music files, and Other audio files",
+            "Messages": "Other in-app messages",
+            "Web browsing": "Web browsing history",
+            "App activity": "App interactions, In-app search history, Installed apps, Other user-generated content, and Other actions",
+            "Device or other IDs": "Device or other IDs",
+            "Location": "Approximate location and Precise location",
+            "Photos and videos": "Photos and Videos",
+            "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+            "Contacts": "Contacts",
+            "Financial info": "User payment info and Purchase history",
+            "Personal info": "Name, Email address, User IDs, Address, Phone number, and Other info"
+        },
+        "Security practices": {
+            "Data is encrypted in transit": "Your data is transferred over a secure connection",
+            "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+        }
+    },
+    "Threads": {
+        "Data shared": {
+            "Personal info": "Name, Email address, User IDs, and Phone number",
+            "Device or other IDs": "Device or other IDs"
+        },
+        "Data collected": {
+            "App activity": "App interactions, In-app search history, Installed apps, Other user-generated content, and Other actions",
+            "Contacts": "Contacts",
+            "Messages": "Emails, SMS or MMS, and Other in-app messages",
+            "Web browsing": "Web browsing history",
+            "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+            "Photos and videos": "Photos and Videos",
+            "Personal info": "Name, Email address, User IDs, Address, Phone number, Political or religious beliefs, Sexual orientation, and Other info",
+            "Location": "Approximate location and Precise location",
+            "Files and docs": "Files and docs",
+            "Device or other IDs": "Device or other IDs",
+            "Audio": "Voice or sound recordings, Music files, and Other audio files",
+            "Calendar": "Calendar events",
+            "Health and fitness": "Health info and Fitness info",
+            "Financial info": "User payment info, Purchase history, Credit score, and Other financial info"
+        },
+        "Security practices": {
+            "Data is encrypted in transit": "Your data is transferred over a secure connection",
+            "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+        }
+    },
+    "Facebook Lite": {
+        "Data shared": {
+            "Device or other IDs": "Device or other IDs",
+            "Personal info": "Name, Email address, User IDs, and Phone number"
+        },
+        "Data collected": {
+            "Messages": "Emails, SMS or MMS, and Other in-app messages",
+            "Files and docs": "Files and docs",
+            "Device or other IDs": "Device or other IDs",
+            "Personal info": "Name, Email address, User IDs, Address, Phone number, Political or religious beliefs, Sexual orientation, and Other info",
+            "Location": "Approximate location and Precise location",
+            "Web browsing": "Web browsing history",
+            "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+            "Audio": "Voice or sound recordings, Music files, and Other audio files",
+            "Calendar": "Calendar events",
+            "App activity": "App interactions, In-app search history, Installed apps, Other user-generated content, and Other actions",
+            "Photos and videos": "Photos and Videos",
+            "Health and fitness": "Health info and Fitness info",
+            "Contacts": "Contacts",
+            "Financial info": "User payment info, Purchase history, Credit score, and Other financial info"
+        },
+        "Security practices": {
+            "Data is encrypted in transit": "Your data is transferred over a secure connection",
+            "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+        }
+    },
+    "Scoopz: Real Life, Real Video": {
+        "No data shared with third parties": {},
+        "Data collected": {
+            "Personal info": "Name, Email address, User IDs, and Other info",
+            "Files and docs": "Files and docs",
+            "Location": "Approximate location and Precise location",
+            "Device or other IDs": "Device or other IDs",
+            "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+            "App activity": "App interactions, In-app search history, Installed apps, Other user-generated content, and Other actions",
+            "Photos and videos": "Photos and Videos"
+        },
+        "Security practices": {
+            "Data is encrypted in transit": "Your data is transferred over a secure connection",
+            "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+        }
+    },
+    "LinkedIn: Jobs & Business News": {
+        "No data shared with third parties": {},
+        "Data collected": {
+            "Audio": "Voice or sound recordings, Music files, and Other audio files",
+            "App activity": "App interactions, In-app search history, Installed apps, Other user-generated content, and Other actions",
+            "Health and fitness": "Health info",
+            "Personal info": "Name, Email address, User IDs, Address, Phone number, Race and ethnicity, Sexual orientation, and Other info",
+            "Files and docs": "Files and docs",
+            "Contacts": "Contacts",
+            "Device or other IDs": "Device or other IDs",
+            "Web browsing": "Web browsing history",
+            "Photos and videos": "Photos and Videos",
+            "Messages": "Other in-app messages",
+            "Financial info": "Purchase history and Other financial info",
+            "Location": "Approximate location",
+            "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+            "Calendar": "Calendar events"
+        },
+        "Security practices": {
+            "Data is encrypted in transit": "Your data is transferred over a secure connection",
+            "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+        }
+    },
+    "VK: music, video, messenger": {
+        "Data shared": {
+            "Device or other IDs": "Device or other IDs",
+            "Audio": "Music files",
+            "Location": "Precise location",
+            "App info and performance": "Crash logs and Diagnostics",
+            "App activity": "Installed apps",
+            "Personal info": "Name, User IDs, Phone number, and Other info"
+        },
+        "Data collected": {
+            "Device or other IDs": "Device or other IDs",
+            "Health and fitness": "Fitness info",
+            "Audio": "Music files",
+            "Financial info": "Purchase history",
+            "Location": "Precise location",
+            "Contacts": "Contacts",
+            "Photos and videos": "Photos and Videos",
+            "Messages": "Other in-app messages",
+            "App info and performance": "Crash logs and Diagnostics",
+            "App activity": "App interactions, In-app search history, Installed apps, Other user-generated content, and Other actions",
+            "Files and docs": "Files and docs",
+            "Personal info": "Name, Email address, User IDs, Phone number, and Other info"
+        },
+        "Security practices": {
+            "Data is encrypted in transit": "Your data is transferred over a secure connection",
+            "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+        }
+    },
+    "OK: Social Network": {
+        "Data shared": {
+            "Location": "Precise location",
+            "Personal info": "User IDs"
+        },
+        "Data collected": {
+            "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+            "Messages": "Emails and Other in-app messages",
+            "Files and docs": "Files and docs",
+            "Device or other IDs": "Device or other IDs",
+            "Financial info": "Purchase history",
+            "Personal info": "Name, Email address, Address, and Phone number",
+            "Photos and videos": "Photos and Videos",
+            "App activity": "App interactions and Other user-generated content",
+            "Contacts": "Contacts",
+            "Audio": "Voice or sound recordings and Other audio files"
+        },
+        "Security practices": {
+            "Data is encrypted in transit": "Your data is transferred over a secure connection",
+            "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+        }
+    },
+    "IMVU: Social Chat & Avatar app": {
+        "Data shared": {
+            "App activity": "App interactions, Installed apps, and Other user-generated content",
+            "Audio": "Voice or sound recordings",
+            "Photos and videos": "Photos",
+            "Messages": "Other in-app messages",
+            "Personal info": "Name, Email address, and User IDs",
+            "Location": "Approximate location",
+            "App info and performance": "Crash logs and Diagnostics",
+            "Financial info": "Purchase history",
+            "Device or other IDs": "Device or other IDs"
+        },
+        "Data collected": {
+            "App activity": "App interactions, Installed apps, Other user-generated content, and Other actions",
+            "Audio": "Voice or sound recordings",
+            "Photos and videos": "Photos",
+            "Messages": "Other in-app messages",
+            "Personal info": "Name, Email address, User IDs, and Other info",
+            "Location": "Approximate location",
+            "App info and performance": "Crash logs and Diagnostics",
+            "Financial info": "Purchase history",
+            "Device or other IDs": "Device or other IDs"
+        },
+        "Security practices": {
+            "Data is encrypted in transit": "Your data is transferred over a secure connection",
+            "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+        }
+    },
+    "ZEPETO: Avatar, Connect & Live": {
+        "Data shared": {
+            "App activity": "App interactions and Other actions",
+            "Personal info": "Name, User IDs, and Other info",
+            "App info and performance": "Crash logs",
+            "Financial info": "Purchase history",
+            "Device or other IDs": "Device or other IDs"
+        },
+        "Data collected": {
+            "Contacts": "Contacts",
+            "Audio": "Voice or sound recordings",
+            "App activity": "App interactions, Installed apps, and Other actions",
+            "Personal info": "Name, Email address, User IDs, Phone number, and Other info",
+            "App info and performance": "Crash logs and Diagnostics",
+            "Photos and videos": "Photos and Videos",
+            "Financial info": "Purchase history",
+            "Device or other IDs": "Device or other IDs"
+        },
+        "Security practices": {
+            "Data is encrypted in transit": "Your data is transferred over a secure connection",
+            "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+        }
+    },
+    "Twitch: Live Streaming": {
+        "Data shared": {
+            "App info and performance": "Crash logs",
+            "Personal info": "Email address and User IDs",
+            "Device or other IDs": "Device or other IDs",
+            "Location": "Approximate location",
+            "Messages": "Other in-app messages",
+            "App activity": "Other actions"
+        },
+        "Data collected": {
+            "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+            "Photos and videos": "Photos and Videos",
+            "Personal info": "Name, Email address, User IDs, Phone number, and Other info",
+            "Financial info": "Purchase history",
+            "Device or other IDs": "Device or other IDs",
+            "Location": "Approximate location",
+            "Messages": "Other in-app messages",
+            "App activity": "App interactions, In-app search history, Other user-generated content, and Other actions"
+        },
+        "Security practices": {
+            "Data is encrypted in transit": "Your data is transferred over a secure connection",
+            "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+        }
+    },
+    "Tumblr\u2014Fandom, Art, Chaos": {
+        "No data shared with third parties": {},
+        "Data collected": {
+            "Personal info": "Email address and Other info",
+            "Device or other IDs": "Device or other IDs",
+            "App activity": "App interactions, In-app search history, Other user-generated content, and Other actions",
+            "Location": "Approximate location",
+            "App info and performance": "Crash logs and Diagnostics",
+            "Photos and videos": "Photos and Videos",
+            "Financial info": "Purchase history",
+            "Messages": "Other in-app messages"
+        },
+        "Security practices": {
+            "Data is encrypted in transit": "Your data is transferred over a secure connection",
+            "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+        }
+    },
+    "Bluesky": {
+        "Data shared": {
+            "Personal info": "User IDs",
+            "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+            "App activity": "App interactions and Other user-generated content",
+            "Device or other IDs": "Device or other IDs"
+        },
+        "Data collected": {
+            "Personal info": "Email address and User IDs",
+            "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+            "App activity": "App interactions and Other user-generated content",
+            "Device or other IDs": "Device or other IDs",
+            "Photos and videos": "Photos"
+        },
+        "Security practices": {
+            "Data is encrypted in transit": "Your data is transferred over a secure connection",
+            "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+        }
+    },
+    "rednote": {
+        "No data shared with third parties": {},
+        "No data collected": {},
+        "Security practices": {
+            "Data is encrypted in transit": "Your data is transferred over a secure connection",
+            "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+        }
+    },
+    "Lemon8 - Lifestyle Community": {
+        "No data shared with third parties": {},
+        "Data collected": {
+            "Photos and videos": "Photos and Videos",
+            "Personal info": "Name, Email address, User IDs, Phone number, Sexual orientation, and Other info",
+            "Device or other IDs": "Device or other IDs",
+            "Location": "Approximate location",
+            "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+            "App activity": "In-app search history, Other user-generated content, and Other actions"
+        },
+        "Security practices": {
+            "Data is encrypted in transit": "Your data is transferred over a secure connection",
+            "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+        }
+    },
+    "Offline Games - No Wifi Games": {
+        "Data shared": {
+            "App info and performance": "Crash logs and Diagnostics",
+            "Device or other IDs": "Device or other IDs",
+            "Location": "Approximate location",
+            "App activity": "App interactions"
+        },
+        "Data collected": {
+            "App info and performance": "Crash logs and Diagnostics",
+            "Device or other IDs": "Device or other IDs",
+            "Location": "Approximate location",
+            "App activity": "App interactions"
+        },
+        "Security practices": {
+            "Data is encrypted in transit": "Your data is transferred over a secure connection",
+            "Data can\u2019t be deleted": "The developer doesn\u2019t provide a way for you to request that your data be deleted"
+        }
+    },
+    "Word Search Explorer": {
+        "Data shared": {
+            "Device or other IDs": "Device or other IDs",
+            "App info and performance": "Crash logs and Diagnostics",
+            "Personal info": "User IDs",
+            "App activity": "App interactions",
+            "Location": "Approximate location"
+        },
+        "Data collected": {
+            "Device or other IDs": "Device or other IDs",
+            "App info and performance": "Crash logs and Diagnostics",
+            "Personal info": "Name, Email address, and User IDs",
+            "App activity": "App interactions",
+            "Location": "Approximate location"
+        },
+        "Security practices": {
+            "Data is encrypted in transit": "Your data is transferred over a secure connection",
+            "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+        }
+    },
+    "Subway Surfers": {
+        "Data shared": {
+            "Location": "Approximate location",
+            "Device or other IDs": "Device or other IDs",
+            "Personal info": "User IDs",
+            "Financial info": "Purchase history",
+            "App info and performance": "Diagnostics",
+            "App activity": "App interactions and Other actions"
+        },
+        "Data collected": {
+            "Location": "Approximate location",
+            "Device or other IDs": "Device or other IDs",
+            "Personal info": "User IDs",
+            "Financial info": "Purchase history",
+            "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+            "App activity": "App interactions and Other actions"
+        },
+        "Security practices": {
+            "Data is encrypted in transit": "Your data is transferred over a secure connection",
+            "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+        }
+    },
+    "Google Play Games": {
+        "No data shared with third parties": {},
+        "Data collected": {
+            "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+            "Contacts": "Contacts",
+            "Device or other IDs": "Device or other IDs",
+            "Location": "Approximate location",
+            "Personal info": "Name, Email address, and User IDs",
+            "App activity": "App interactions, In-app search history, Installed apps, Other user-generated content, and Other actions"
+        },
+        "Security practices": {
+            "Data is encrypted in transit": "Your data is transferred over a secure connection",
+            "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+        }
+    },
+    "Candy Crush Saga": {
+        "Data shared": {
+            "Personal info": "Email address",
+            "Location": "Approximate location",
+            "Device or other IDs": "Device or other IDs"
+        },
+        "Data collected": {
+            "Messages": "Other in-app messages",
+            "Personal info": "Name, Email address, User IDs, and Other info",
+            "Location": "Approximate location",
+            "Device or other IDs": "Device or other IDs",
+            "App activity": "App interactions, Installed apps, and Other actions",
+            "Financial info": "Purchase history",
+            "App info and performance": "Crash logs and Diagnostics"
+        },
+        "Security practices": {
+            "Data is encrypted in transit": "Your data is transferred over a secure connection",
+            "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+        }
+    },
+    "Among Us": {
+        "No data shared with third parties": {},
+        "Data collected": {
+            "Financial info": "Purchase history",
+            "App info and performance": "Crash logs",
+            "Personal info": "Email address and User IDs",
+            "Device or other IDs": "Device or other IDs",
+            "App activity": "Other user-generated content and Other actions"
+        },
+        "Security practices": {
+            "Data is encrypted in transit": "Your data is transferred over a secure connection",
+            "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+        }
+    },
+    "Block Blast!": {
+        "No data shared with third parties": {},
+        "Data collected": {
+            "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+            "Device or other IDs": "Device or other IDs"
+        },
+        "Security practices": {
+            "Data is encrypted in transit": "Your data is transferred over a secure connection",
+            "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+        }
+    },
+    "Roblox": {
+        "Data shared": {
+            "Personal info": "User IDs",
+            "Audio": "Voice or sound recordings",
+            "Device or other IDs": "Device or other IDs",
+            "Financial info": "Purchase history",
+            "Location": "Approximate location"
+        },
+        "Data collected": {
+            "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+            "App activity": "App interactions, In-app search history, Other user-generated content, and Other actions",
+            "Personal info": "Name, Email address, User IDs, Phone number, and Other info",
+            "Audio": "Voice or sound recordings",
+            "Messages": "Other in-app messages",
+            "Device or other IDs": "Device or other IDs",
+            "Financial info": "Purchase history",
+            "Location": "Approximate location"
+        },
+        "Security practices": {
+            "Data is encrypted in transit": "Your data is transferred over a secure connection",
+            "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+        }
+    },
+    "Mob Control": {
+        "Data shared": {
+            "Device or other IDs": "Device or other IDs",
+            "Location": "Approximate location",
+            "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+            "Personal info": "Email address",
+            "App activity": "Other actions"
+        },
+        "Data collected": {
+            "Device or other IDs": "Device or other IDs",
+            "Location": "Approximate location",
+            "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+            "App activity": "Other actions"
+        },
+        "Security practices": {
+            "Data isn\u2019t encrypted": "Your data isn\u2019t transferred over a secure connection",
+            "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+        }
+    },
+    "Fruit Ninja\u00ae": {
+        "Data shared": {
+            "Personal info": "User IDs",
+            "Location": "Approximate location",
+            "Device or other IDs": "Device or other IDs",
+            "App info and performance": "Diagnostics",
+            "Financial info": "Purchase history"
+        },
+        "Data collected": {
+            "Personal info": "User IDs",
+            "Location": "Approximate location",
+            "Device or other IDs": "Device or other IDs",
+            "Messages": "Other in-app messages",
+            "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+            "App activity": "App interactions, In-app search history, and Other actions",
+            "Financial info": "Purchase history"
+        },
+        "Security practices": {
+            "Data isn\u2019t encrypted": "Your data isn\u2019t transferred over a secure connection",
+            "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+        }
+    },
+    "Geometry Dash Lite": {
+        "Data shared": {
+            "App activity": "App interactions",
+            "Device or other IDs": "Device or other IDs"
+        },
+        "Data collected": {
+            "Personal info": "Email address and User IDs",
+            "Device or other IDs": "Device or other IDs"
+        },
+        "Security practices": {
+            "Data is encrypted in transit": "Your data is transferred over a secure connection",
+            "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+        }
+    },
+    "Crossy Road": {
+        "Data shared": {
+            "Location": "Approximate location",
+            "App info and performance": "Diagnostics",
+            "Personal info": "User IDs",
+            "Device or other IDs": "Device or other IDs"
+        },
+        "Data collected": {
+            "Location": "Approximate location",
+            "App info and performance": "Crash logs and Diagnostics",
+            "Personal info": "User IDs",
+            "App activity": "App interactions",
+            "Device or other IDs": "Device or other IDs"
+        },
+        "Security practices": {
+            "Data is encrypted in transit": "Your data is transferred over a secure connection",
+            "Data can\u2019t be deleted": "The developer doesn\u2019t provide a way for you to request that your data be deleted"
+        }
+    },
+    "8 Ball Pool": {
+        "Data shared": {
+            "App info and performance": "Crash logs",
+            "Location": "Approximate location",
+            "Device or other IDs": "Device or other IDs",
+            "Messages": "Other in-app messages",
+            "Financial info": "Purchase history",
+            "App activity": "App interactions",
+            "Personal info": "User IDs"
+        },
+        "Data collected": {
+            "App info and performance": "Crash logs and Diagnostics",
+            "Location": "Approximate location",
+            "Device or other IDs": "Device or other IDs",
+            "Messages": "Other in-app messages",
+            "Financial info": "Purchase history",
+            "App activity": "App interactions, Installed apps, and Other actions",
+            "Personal info": "Name, Email address, User IDs, and Other info"
+        },
+        "Security practices": {
+            "Data is encrypted in transit": "Your data is transferred over a secure connection",
+            "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+        }
+    },
+    "Coloring Games: Color & Paint": {
+        "No data shared with third parties": {},
+        "No data collected": {},
+        "Security practices": {
+            "Committed to follow the Play Families Policy": "The developer has committed to follow the Play Families Policy for this app.See the policy"
+        }
+    },
+    "Hungry Shark Evolution": {
+        "Data shared": {
+            "Location": "Approximate location",
+            "Device or other IDs": "Device or other IDs",
+            "App activity": "Other actions",
+            "Financial info": "Purchase history",
+            "App info and performance": "Crash logs, Diagnostics, and Other app performance data"
+        },
+        "Data collected": {
+            "Location": "Approximate location",
+            "Device or other IDs": "Device or other IDs",
+            "App activity": "App interactions and Other actions",
+            "Personal info": "User IDs",
+            "Financial info": "Purchase history",
+            "App info and performance": "Crash logs, Diagnostics, and Other app performance data"
+        },
+        "Security practices": {
+            "Data is encrypted in transit": "Your data is transferred over a secure connection",
+            "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+        }
+    },
+    "UNO!\u2122": {
+        "Data shared": {
+            "Device or other IDs": "Device or other IDs",
+            "Financial info": "Purchase history",
+            "Personal info": "User IDs"
+        },
+        "Data collected": {
+            "Financial info": "Purchase history",
+            "Personal info": "Email address and User IDs",
+            "App activity": "App interactions and Other actions",
+            "App info and performance": "Crash logs and Diagnostics"
+        },
+        "Security practices": {
+            "Data is encrypted in transit": "Your data is transferred over a secure connection",
+            "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+        }
+    },
+    "Disney Magic Kingdoms": {
+        "Data shared": {
+            "Personal info": "User IDs and Other info",
+            "Device or other IDs": "Device or other IDs",
+            "App info and performance": "Crash logs and Diagnostics",
+            "Location": "Approximate location"
+        },
+        "Data collected": {
+            "Financial info": "Purchase history",
+            "Personal info": "Name, User IDs, and Other info",
+            "Device or other IDs": "Device or other IDs",
+            "App activity": "App interactions and Other actions",
+            "App info and performance": "Crash logs and Diagnostics",
+            "Location": "Approximate location"
+        },
+        "Security practices": {
+            "Data is encrypted in transit": "Your data is transferred over a secure connection",
+            "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+        }
+    },
+    "Free Fire": {
+        "No data shared with third parties": {},
+        "Data collected": {
+            "App activity": "App interactions, In-app search history, Other user-generated content, and Other actions",
+            "Web browsing": "Web browsing history",
+            "Personal info": "Name and Email address",
+            "Device or other IDs": "Device or other IDs",
+            "Contacts": "Contacts",
+            "App info and performance": "Crash logs and Diagnostics",
+            "Financial info": "Purchase history"
+        },
+        "Security practices": {
+            "Data is encrypted in transit": "Your data is transferred over a secure connection",
+            "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+        }
+    },
+    "Asphalt 8 - Car Racing Game": {
+        "Data shared": {
+            "App info and performance": "Crash logs and Diagnostics",
+            "Location": "Approximate location",
+            "Personal info": "User IDs and Other info",
+            "Device or other IDs": "Device or other IDs"
+        },
+        "Data collected": {
+            "App info and performance": "Crash logs and Diagnostics",
+            "Location": "Approximate location",
+            "App activity": "App interactions, Installed apps, and Other actions",
+            "Financial info": "Purchase history",
+            "Personal info": "Name, User IDs, and Other info",
+            "Device or other IDs": "Device or other IDs"
+        },
+        "Security practices": {
+            "Data is encrypted in transit": "Your data is transferred over a secure connection",
+            "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+        }
+    },
+    "Angry Birds 2": {
+        "Data shared": {
+            "Financial info": "Purchase history",
+            "App activity": "Other actions",
+            "Device or other IDs": "Device or other IDs",
+            "Location": "Approximate location"
+        },
+        "Data collected": {
+            "Financial info": "Purchase history",
+            "Personal info": "Name, User IDs, and Other info",
+            "App info and performance": "Crash logs and Diagnostics",
+            "Messages": "Other in-app messages",
+            "App activity": "App interactions, Installed apps, and Other actions",
+            "Device or other IDs": "Device or other IDs",
+            "Location": "Approximate location"
+        },
+        "Security practices": {
+            "Data is encrypted in transit": "Your data is transferred over a secure connection",
+            "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+        }
+    },
+    "Temple Run 2: Endless Escape": {
+        "Data shared": {
+            "Financial info": "Purchase history",
+            "App activity": "App interactions",
+            "Device or other IDs": "Device or other IDs",
+            "App info and performance": "Crash logs and Diagnostics"
+        },
+        "Data collected": {
+            "Financial info": "Purchase history",
+            "App activity": "App interactions",
+            "Device or other IDs": "Device or other IDs",
+            "App info and performance": "Crash logs and Diagnostics"
+        },
+        "Security practices": {
+            "Data isn\u2019t encrypted": "Your data isn\u2019t transferred over a secure connection",
+            "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+        }
+    },
+    "EA SPORTS FC\u2122 Mobile Soccer": {
+        "Data shared": {
+            "Location": "Approximate location",
+            "Device or other IDs": "Device or other IDs"
+        },
+        "Data collected": {
+            "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+            "Photos and videos": "Photos and Videos",
+            "App activity": "Other actions",
+            "Location": "Approximate location",
+            "Financial info": "Purchase history",
+            "Personal info": "Name and User IDs",
+            "Device or other IDs": "Device or other IDs"
+        },
+        "Security practices": {
+            "Data is encrypted in transit": "Your data is transferred over a secure connection",
+            "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+        }
+    },
+    "Baby Games: Piano & Baby Phone": {
+        "No data shared with third parties": {},
+        "No data collected": {},
+        "Security practices": {
+            "Committed to follow the Play Families Policy": "The developer has committed to follow the Play Families Policy for this app.See the policy"
+        }
+    },
+    "Hill Climb Racing 2": {
+        "No data shared with third parties": {},
+        "Data collected": {
+            "Personal info": "Name, Email address, and User IDs",
+            "Messages": "Other in-app messages",
+            "Device or other IDs": "Device or other IDs",
+            "App info and performance": "Crash logs and Diagnostics",
+            "Financial info": "Purchase history"
+        },
+        "Security practices": {
+            "Data is encrypted in transit": "Your data is transferred over a secure connection",
+            "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+        }
+    },
+    "PUBG MOBILE": {
+        "No data shared with third parties": {},
+        "Data collected": {
+            "App activity": "Other actions",
+            "Financial info": "Purchase history",
+            "App info and performance": "Crash logs and Diagnostics",
+            "Device or other IDs": "Device or other IDs",
+            "Personal info": "Name and User IDs"
+        },
+        "Security practices": {
+            "Data is encrypted in transit": "Your data is transferred over a secure connection",
+            "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+        }
+    },
+    "Clash of Clans": {
+        "Data shared": {
+            "Device or other IDs": "Device or other IDs",
+            "App activity": "App interactions"
+        },
+        "Data collected": {
+            "Financial info": "Purchase history",
+            "Location": "Approximate location",
+            "Device or other IDs": "Device or other IDs",
+            "App activity": "App interactions, In-app search history, Other user-generated content, and Other actions",
+            "Contacts": "Contacts",
+            "Personal info": "Email address, User IDs, and Other info",
+            "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+            "Messages": "Other in-app messages"
+        },
+        "Security practices": {
+            "Data is encrypted in transit": "Your data is transferred over a secure connection",
+            "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+        }
+    },
+    "Stumble Guys": {
+        "Data shared": {
+            "Device or other IDs": "Device or other IDs",
+            "Location": "Approximate location",
+            "Financial info": "Purchase history"
+        },
+        "Data collected": {
+            "Device or other IDs": "Device or other IDs",
+            "Location": "Approximate location",
+            "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+            "Financial info": "Purchase history",
+            "Personal info": "User IDs",
+            "Messages": "Other in-app messages",
+            "App activity": "App interactions and Other actions"
+        },
+        "Security practices": {
+            "Data isn\u2019t encrypted": "Your data isn\u2019t transferred over a secure connection",
+            "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+        }
+    }
+}
