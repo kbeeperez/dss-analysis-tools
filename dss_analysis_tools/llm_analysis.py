@@ -95,7 +95,7 @@ async def compare_app_data(compare_request: CompareRequest):
             else:
                 app_llm[app_id] = "Not yet in file."
 
-        functions.save_as_json(app_llm, 'policy_llm_similarities.json')
+        functions.save_as_json(app_llm, 'data/policy_llm_similarities.json')
         return {"similarity_results": app_llm}
 
     except Exception as e:
